@@ -1,0 +1,17 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		String name = "SneakingTom";
+		
+		mjlp(name);
+
+	}
+	
+	static void mjlp(String name) {
+		System.out.print("10 MJLP(My Java Learning Progress) Tweets WOOOOH! from:"+name);
+	}
+
+}
